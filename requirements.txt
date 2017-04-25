@@ -1,0 +1,5 @@
+django
+
+codacy-coverage
+pep8
+python-coveralls
